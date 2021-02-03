@@ -5,7 +5,7 @@
   "require": {
     "php": ">=5.3"
   },
-  "license": "amqpcomm-0.01",
+  "license": "MIT",
   "authors": [
     {
       "name": "lakers",
