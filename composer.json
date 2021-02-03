@@ -1,5 +1,5 @@
 {
-  "name": "package/amqpcomm",
+  "name": "lakers/amqpcomm",
   "description": "amqp 类包",
   "type": "library",
   "require": {
