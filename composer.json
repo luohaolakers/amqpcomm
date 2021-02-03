@@ -1,0 +1,25 @@
+{
+  "name": "package/amqpcomm",
+  "description": "amqp 类包",
+  "type": "library",
+  "require": {
+    "php": ">=5.3"
+  },
+  "license": "0.01",
+  "authors": [
+    {
+      "name": "lakers",
+      "email": "1147852676@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "AmqpComm\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "AmqpComm\\": "src"
+    }
+  }
+}
