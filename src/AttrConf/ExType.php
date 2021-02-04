@@ -1,6 +1,6 @@
 <?php
 
-namespace AmqpComm\Amqp\AttrConf;
+namespace AmqpComm\AttrConf;
 
 class ExType
 {

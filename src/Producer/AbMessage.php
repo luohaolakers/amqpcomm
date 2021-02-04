@@ -2,7 +2,7 @@
 
 namespace AmqpComm\Producer;
 
-use AmqpComm\Amqp\AttrConf\ExType;
+use AmqpComm\AttrConf\ExType;
 
 abstract class AbMessage implements MsgInterface
 {
